@@ -1,0 +1,7 @@
+*{margin: 0; padding: 0;}
+#menu {margin: 0; padding: 0;}
+#menu ul {list-style-type: none;}
+#menu ul li{float: left; color: #fff; text-align: center; background: #000; height: 40px; width: 150px; line-height: 40px;}
+#menu ul li:hover {background: #999; display: block;}
+#menu ul li:hover ul {background: #999; display: block;}
+#menu ul ul {display: none;}
